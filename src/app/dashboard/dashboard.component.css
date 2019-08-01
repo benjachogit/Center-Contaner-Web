@@ -1,0 +1,120 @@
+.row {
+    width: 100px;
+    height: 40.9px;
+    max-width: 40.9px;
+    height: auto;
+    border-radius: 93px;
+    position: absolute;
+    left: 8%;
+    top: 2.4%;
+  }
+
+.CENTER-CONTAINERS-COLTD {
+    width: 201px;
+    height: 23px;
+    position: absolute;
+    left: 4.5%;
+    top: 2%;
+    font-family: Kanit;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #6a0202;
+  }  
+
+  .nameTH {
+    width: 157px;
+    height: 18px;
+    position: absolute;
+    left: 4%;
+    top: 5%;
+    font-family: Kanit;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #6a0202;
+  }  
+
+  .th-large {
+    width: 14.1px;
+    height: 12.4px;
+    position: absolute;
+    left: 8%;
+    top: 6.2%;
+    
+  }  
+
+  .clipboard-list {
+    width: 12.8px;
+    height: 17.1px;
+    position: absolute;
+    left: 8%;
+    top: 13.5%;
+    background-color: var(--white-two);
+  }
+
+  .file-alt {
+    width: 13.2px;
+    height: 17.6px;
+    position: absolute;
+    left: 8%;
+    top: 21.5%;
+    background-color: var(--white-two);
+  }
+
+  .list-alt {
+    width: 15.4px;
+    height: 16.5px;
+    position: absolute;
+    left: 8%;
+    top: 29.5%;
+    background-color: var(--white-two);
+  }
+
+  .pencil {
+    width: 17.1px;
+    height: 17.1px;
+    object-fit: contain;
+    position: absolute;
+    left: 8%;
+    top: 37.5%;
+  }
+
+  .calendar-alt {
+    width: 14.1px;
+    height: 16.1px;
+    position: absolute;
+    left: 8%;
+    top: 45.5%;
+    background-color: var(--white-two);
+  }
+
+  .settings-3 {
+    width: 14.3px;
+    height: 14.4px;
+    object-fit: contain;
+    position: absolute;
+    left: 8%;
+    top: 53.7%;
+  }
+
+  .logout-2 {
+    width: 16.1px;
+    height: 16.1px;
+    object-fit: contain;
+    position: absolute;
+    left: 8%;
+    top: 61.5%;
+  }
+
+
+
+  

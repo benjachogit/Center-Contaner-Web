@@ -1,0 +1,159 @@
+ 
+  
+  .Rectangle-856 {
+    position: absolute;
+    left: 20.5%;
+    top: 16.5%; 
+    width: 894.2px;
+    height: 510px;
+    border-radius: 11px;
+    background-color:#ffffff;
+  }
+  .Rectangle-869 {
+    border-top-left-radius:8px;
+    border-bottom-left-radius:8px;  
+    position: absolute;
+    left: 21%;
+    top: 17%;
+    width: 463.5px;
+    height: 495.2px;
+  
+    background-color: #760000;
+  }
+
+  .Please-Sign-In {
+    width: 217px;
+    height: 48px;
+    position: absolute;
+    left: 55%;
+    top: 23%; 
+    font-family: Kanit;
+    font-size: 32px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #660000;
+  }  
+
+  .to-Your-Account {
+    width: 154px;
+    height: 31px;
+    position: absolute;
+    left: 55%;
+    top: 29%; 
+    font-family: Kanit;
+    font-size: 21px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.48;
+    letter-spacing: normal;
+    text-align: left;
+    color: #660000;
+  }
+
+  .Username {
+    width: 68px;
+    height: 23px;
+    position: absolute;
+    left: 55%;
+    top: 36%; 
+    font-family: Kanit;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #660000;
+  }
+
+  .user {
+    width: 15.3px;
+    height: 17.4px;
+    position: absolute;
+    left: 56%;
+    top: 43%; 
+  }  
+
+  .Password {
+    width: 62px;
+    height: 23px;
+    position: absolute;
+    left: 55%;
+    top: 49%;
+    font-family: Kanit;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #660000;
+  }
+  
+  .Path-457 {
+    width: 17.7px;
+    height: 20.3px;
+    position: absolute;
+    left: 56%;
+    top: 56%; 
+  }
+  
+  .Rectangle-867 {
+    width: 264px;
+    height: 42.1px;
+    padding-left: 40px;
+    position: absolute;
+    left: 55%;
+    top: 41%; 
+    border-radius: 4px;
+    border: solid 1px #cbcbcb;
+    background-color: #ffffff;
+  }
+  .Rectangle-898 {
+    width: 264px;
+    height: 42.1px;
+    padding-left: 40px;
+    position: absolute;
+    left: 55%;
+    top: 54%;
+    border-radius: 4px;
+    border: solid 1px #cbcbcb;
+    background-color: #ffffff;
+ }
+ 
+ .Rectangle-866 {
+    width: 305.7px;
+    height: 48.1px;
+    position: absolute;
+    left: 55%;
+    top: 64%;
+    border: none;
+    border-radius: 4px;
+    background-color: #960000;
+  }
+
+  .Sign-In {
+    width: 59px;
+    height: 29px;
+    position: absolute;
+    left: 63%;
+    top: 65%;
+    font-family: Kanit;
+    font-size: 19px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--white-two);
+  }
+  
+  
